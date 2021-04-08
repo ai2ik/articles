@@ -10,4 +10,4 @@
 <li><a href="https://seonorth.ca/services/schema/">Schema Services</a></li>
 <li><a href="https://seonorth.ca/services/seo-audit/">SEO Audit/</a></li>
 <li><a href="https://seonorth.ca/services/shopify-seo/">Shopify SEO</a></li>
-<li><a href="https://seonorth.ca/services/wordpress-rebuilds/">Wordpress Rebuilds/</a></li>
+<li><a href="https://seonorth.ca/services/wordpress-rebuilds/">Wordpress Rebuilds</a></li>
