@@ -1,0 +1,13 @@
+<li><a href="https://seonorth.ca/services/cannabis-seo/">Cannabis SEO</a></li>
+<li><a href="https://seonorth.ca/services/cro/">Conversion Rate Optimization Agency</a></li>
+<li><a href="https://seonorth.ca/services/crossfit-seo/">Crossfit SEO</a></li>
+<li><a href="https://seonorth.ca/services/dentist-seo/">Dentist SEO/</a></li>
+<li><a href="https://seonorth.ca/services/drug-rehab-seo/">Drug Rehab SEO</a></li>
+<li><a href="https://seonorth.ca/services/optimize-gmb/">GMB Optimization</a></li>
+<li><a href="https://seonorth.ca/services/page-optimization/">Web Page Optimization/</a></li>
+<li><a href="https://seonorth.ca/services/page-speed-optimization/">Page Speed Optimization/</a></li>
+<li><a href="https://seonorth.ca/services/real-estate-seo/">Real Estate SEO</a></li>
+<li><a href="https://seonorth.ca/services/schema/">Schema Services</a></li>
+<li><a href="https://seonorth.ca/services/seo-audit/">SEO Audit/</a></li>
+<li><a href="https://seonorth.ca/services/shopify-seo/">Shopify SEO</a></li>
+<li><a href="https://seonorth.ca/services/wordpress-rebuilds/">Wordpress Rebuilds/</a></li>
